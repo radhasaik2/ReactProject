@@ -1,15 +1,8 @@
-package in.movies.booking;
+package in.react.tktbooking;
 
-public class Logindto {
-	private String loginid;
+public class Signindto {
 	private String email;
 	private String password;
-	public String getLoginid() {
-		return loginid;
-	}
-	public void setLoginid(String loginid) {
-		this.loginid = loginid;
-	}
 	public String getEmail() {
 		return email;
 	}
