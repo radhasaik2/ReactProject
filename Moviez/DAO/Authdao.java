@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class Maindao {
+public class Authdao {
     private static final String url = "jdbc:mysql://localhost:3306/tkt_booking";
     private static final String user = "root";
     private static final String password = "root";
